@@ -1,5 +1,8 @@
+/* Current Colour Palette
+https://colorhunt.co/palette/f0e9d2e6ddc4678983181d31
+https://colorhunt.co/palette/f7ecdee9dac19ed2c654bab9*/
 body {
-  background-color: #E6DDC4;
+  background-color: #E9DAC1;
 }
 
 hr {
@@ -19,9 +22,9 @@ h3{
 }
 
 a:link {
-  color: #181D31;
+  color: #9ED2C6;
 }
 
 a:visited {
-  color: #181D31;
+  color: #9ED2C6;
 }
